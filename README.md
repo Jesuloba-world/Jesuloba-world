@@ -1,3 +1,3 @@
-👋 Hi, I’m Jesuloba John, I'm a frontend developer.
-I use React to build interesting web interface
+👋 Hi, I’m John, I'm a frontend developer.
+I love building interesting web interfaces
 
