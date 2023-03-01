@@ -1,3 +1,2 @@
-👋 Hi, I’m John, I'm a frontend developer.
-I love building interesting web interfaces
+👋 Hi, I’m John, I'm a software engineer with good understanding of techniques geared towards optimum user experience
 
